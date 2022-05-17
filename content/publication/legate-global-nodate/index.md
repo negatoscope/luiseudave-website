@@ -5,11 +5,7 @@ title: A Global Experiment on Motivating Social Distancing during the COVID-19 P
 subtitle: ''
 summary: ''
 authors:
-- Nicole Legate
-- Thuy-vy Nguyen
-- Netta Weinstein
-- Arlen C Moller
-- Lisa Legault
+- Psychological Science Accelerator
 tags: []
 categories: []
 date: -01-01
@@ -54,6 +50,6 @@ abstract: 'Finding communication strategies that can effectively motivate social
   distancing out of a true understanding of why the rules are important and necessary
   yielded the opposite patterns. Overall, this work highlights the potential harm
   of using shaming and pressuring language in public health communication.'
-publication: 'Nature Human Behavior (under review)'
-doi: 10.31234/osf.io/n3dyf
+publication: 'Nature Human Behavior'
+doi: 10.1038/s41562-021-01173-x
 ---

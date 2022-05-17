@@ -10,21 +10,21 @@ headless: true
 weight: 30
 
 title: Skills
-subtitle:
+subtitle: For developed projects go to https://github.com/negatoscope 
 
 # Showcase personal skills or business features.
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: 75%
+- description: 
   icon: r-project
   icon_pack: fab
   name: R
-- description: 50%
+- description: 
   icon: python
   icon_pack: fab
   name: Python
-- description: 50%
+- description:
   icon: unity
   icon_pack: fab
   name: Unity

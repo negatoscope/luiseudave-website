@@ -22,11 +22,11 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Visiting Professor
-    company: Fridrich-Alexander Universität
+  - title: Affiliated Researcher
+    company: Friedrich-Alexander Universität
     company_url: 'https://www.hex.tf.fau.de/'
     company_logo: ''
-    location: Erlangen-Nürnberg
+    location: Erlangen
     date_start: '2021-04-01'
     date_end: ''
     description: Teaching 'VR-Neuroscience' course and research in VR-Neuroscience applications.
@@ -38,7 +38,7 @@ experience:
     location: Pamplona
     date_start: '2019-01-01'
     date_end: ''
-    description: Teaching 'Attention and Perception', 'Research Methods', 'Neuropsychology' to Psychology and Education undergraduates.
+    description: Teaching 'Attention and Perception', 'Research Methods', 'Neuropsychology' and 'VR in Neuroscience" to Psychology and Education undergraduates.
 
   - title: Research Assistant
     company: Centre for Applied Biomedical Research

@@ -20,7 +20,7 @@ bio: MD turned Neuroscientist interested in the intersection between Virtual Rea
 interests:
 - Neuroscience
 - Virtual Reality
-- Driving
+- Open Science
 
 # Education to show in About widget
 education:
@@ -70,7 +70,6 @@ email: ""
 highlight_name: true
 ---
 
-Luis is an Assistant Professor in Psychology at University of Navarra. He holds a PhD in Neuroscience examining age-related differences in visual perception and cognition and their role in virtual car driving using fMRI. He's interested in
-virtual reality and its applications in psychological research, statistical methodology, as well as in reproducible and open science
+Luis is an Assistant Professor in Psychology at University of Navarra. Currently teaching and doing research in the intersection between Virtual Reality and Neuroscience, statistical methodology. Working towards a more reproducible and open science.
 
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv_eudave.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
