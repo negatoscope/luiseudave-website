@@ -6,7 +6,7 @@ title: A multi-country test of brief reappraisal interventions on emotions durin
 subtitle: ''
 summary: ''
 authors:
-- Ke Wang
+- Psychological Science Accelerator
 tags: []
 categories: []
 date: '2021-01-01'

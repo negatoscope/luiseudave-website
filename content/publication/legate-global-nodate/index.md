@@ -50,6 +50,6 @@ abstract: 'Finding communication strategies that can effectively motivate social
   distancing out of a true understanding of why the rules are important and necessary
   yielded the opposite patterns. Overall, this work highlights the potential harm
   of using shaming and pressuring language in public health communication.'
-publication: 'Nature Human Behavior'
+publication: 'PNAS'
 doi: 10.1038/s41562-021-01173-x
 ---
