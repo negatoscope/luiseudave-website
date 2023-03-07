@@ -42,4 +42,5 @@ publication_types:
 - '2'
 abstract: ''
 publication: '*Scientific data*'
+doi: 10.1038/s41597-022-01811-7
 ---

@@ -43,4 +43,5 @@ publication_types:
 - '2'
 abstract: ''
 publication: '*Nature Human Behaviour*'
+doi: 10.1038/s41562-021-01173-x
 ---

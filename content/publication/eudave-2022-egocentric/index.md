@@ -36,4 +36,5 @@ publication_types:
 - '2'
 abstract: ''
 publication: '*Frontiers in Aging Neuroscience*'
+doi: 10.3389/fnagi.2022.936661
 ---

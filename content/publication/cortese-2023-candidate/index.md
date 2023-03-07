@@ -43,4 +43,5 @@ publication_types:
 - '2'
 abstract: ''
 publication: '*World Psychiatry*'
+doi: 10.1002/wps.21037
 ---

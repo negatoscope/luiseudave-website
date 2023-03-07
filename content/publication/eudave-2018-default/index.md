@@ -37,4 +37,5 @@ publication_types:
 - '2'
 abstract: ''
 publication: '*Human Brain Mapping*'
+doi: 10.1002/hbm.24240
 ---

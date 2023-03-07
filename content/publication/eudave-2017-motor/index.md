@@ -38,4 +38,5 @@ publication_types:
 - '2'
 abstract: ''
 publication: '*Brain Imaging and Behavior*'
+doi: 10.1007/s11682-016-9569-7
 ---

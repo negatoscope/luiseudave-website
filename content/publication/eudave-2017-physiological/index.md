@@ -34,4 +34,5 @@ publication_types:
 abstract: ''
 publication: '*2017 IEEE 14th International Conference on Wearable and Implantable
   Body Sensor Networks (BSN)*'
+doi: 10.1109/BSN.2017.7936028
 ---

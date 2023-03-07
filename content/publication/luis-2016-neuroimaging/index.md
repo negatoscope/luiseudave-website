@@ -42,4 +42,5 @@ publication_types:
 - '2'
 abstract: ''
 publication: "*Journal of Alzheimer's Disease*"
+doi: 10.3233/JAD-160006
 ---

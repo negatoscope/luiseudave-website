@@ -43,4 +43,5 @@ publication_types:
 - '2'
 abstract: ''
 publication: '*Affective science*'
+doi: 10.1007/s42761-022-00128-3
 ---
