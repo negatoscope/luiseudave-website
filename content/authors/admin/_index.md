@@ -43,6 +43,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '/#contact'
+- icon: fa-brands fa-bluesky
+  icon_pack: brands
+  link: https://twitter.com/negatoscope
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/negatoscope
