@@ -49,7 +49,10 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/negatoscope
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
+- icon: bluesky
+  icon_pack: fab
+  link: https://bsky.app/profile/negatoscope.bsky.social
+- icon: graduation-cap
   icon_pack: fas
   link: https://scholar.google.com/citations?user=Ptv4JN8AAAAJ&hl
 - icon: github
@@ -58,10 +61,6 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/luiseudave/
-
-# Link to a PDF of your resume/CV.
-# To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
-# and uncomment the lines below.
 - icon: cv
   icon_pack: ai
   link: uploads/cv_eudave.pdf
@@ -73,6 +72,6 @@ email: ""
 highlight_name: true
 ---
 
-Luis is an Assistant Professor in Psychology at University of Navarra. Currently teaching and doing research in the intersection between Virtual Reality and Neuroscience, statistical methodology. Working towards a more reproducible and open science.
+I am an Assistant Professor at the University of Navarra, researching the intersection of cognitive science and Extended Reality. My work utilizes a multimodal approach—combining VR with EEG and eye-tracking—to study mental imagery vividness, spatial attention, and social working memory. I am particularly interested in "objectifying the subjective," a mission that has led me from clinical biomarker validation for stroke recovery to my current exploration of the visual phenomenology of consciousness.
 
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv_eudave.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
