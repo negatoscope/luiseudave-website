@@ -16,15 +16,15 @@ subtitle: For developed projects go to https://github.com/negatoscope
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: 
+- description: 'Statistical computing, data visualization, and reproducible research.'
   icon: r-project
   icon_pack: fab
   name: R
-- description: 
+- description: 'Data science, research automation, and experimental scripting.'
   icon: python
   icon_pack: fab
   name: Python
-- description:
+- description: 'Developing immersive Virtual Reality environments for Cognitive Neuroscience.'
   icon: unity
   icon_pack: fab
   name: Unity
